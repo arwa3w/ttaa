@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charest="utf-8"/>
+    <meta name="description"content="This Is Description For My First Page"/>
+     <title> web</title>
+</head>
+<body>
+    <p>create the following design using HTML code :</p>
+    <p>1-</p>
+<p>this is <b>blod </b><u>task</u></p>
+<p>100$ <b><del>150$</del></b></p>
+<h1>this is main heading element</h1>
+<h3>this is second heading less essential</h3>
+<p>this is<br> paragraph with break line </p>
+<hr>
+<img src="css.png" alt="not found" width="20%" height="20%">
+<img src="html(1).png" alt="not found" width="20%" height="20%">
+<pre>this is paragraph
+                 with perfomatted tag
+                 (with no break line)</pre>
+ <h6>this is the smallest heading</h6>
+ <p><mark>this is highlighted text</mark></p>
+ <p><b>h<sub>2</sub>o</b> and <b>X<sup>2</sup></b></p>
+ <hr>
+ <h2>links</h2>
+ <a href="https://www.google.com/search?client=firefox-b-d&q=facebook" >go to facebook</a><br>
+ <a href="index33">go to another page</a><br>
+
+ <a href="https://www.google.com/" >open your email</a>   <br>   
+ <img src="gg.png" alt="not found">
+ <br>
+ <img src="" alt="not found">
+ <input type="submit" value="click me">
+
+
+
+</body>
+</html>
